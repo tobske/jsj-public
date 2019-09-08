@@ -1,6 +1,13 @@
 <style>
 	.nav-bar {
+	    height: 312px;
+	    background-image: url("/signs.png"), url("/background-hands.jpg");
+        background-position: center top, center 2px;
+        background-repeat: no-repeat;
+
+	    padding: 6px 18px;
 	    display: flex;
+	    align-items: end;
 	}
 
 	.nav-element {

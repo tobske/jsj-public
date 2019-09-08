@@ -25,12 +25,18 @@
     }
 
 	.container {
-	    max-width: 950px;
+	    max-width: 1004px;
+	}
+
+	.content {
+	    padding: 6px 18px;
 	}
 </style>
 
 <div class="container">
     <NavBar></NavBar>
-    <Router {routes}></Router>
+    <div class="content">
+        <Router {routes}></Router>
+    </div>
 </div>
 

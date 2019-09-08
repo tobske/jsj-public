@@ -17,17 +17,16 @@
 <style>
     :global(body) {
         display: flex;
-        flex-direction: column;
-        align-items: center;
+        justify-content: center;
 
         background-color: #e7b556;
         background-image: url("/background-man.jpg"), url("/background.jpg");
         background-position: center 315px, center top;
-        background-repeat: no-repeat;
+        background-repeat: repeat-y;
     }
 
 	.container {
-	    max-width: 1004px;
+	    flex: 0 1 1004px;
 	}
 
 	.content {

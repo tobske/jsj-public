@@ -8,6 +8,7 @@
 	    padding: 6px 18px;
 	    display: flex;
 	    align-items: end;
+	    justify-content: center;
 	}
 
 	.nav-element {
@@ -22,5 +23,8 @@
     </div>
     <div class="nav-element">
         <a href="#/ueber-mich">Über Mich</a>
+    </div>
+    <div class="nav-element">
+        <a href="#/jin-shin-jyutsu">Jin Shin Jyutsu®</a>
     </div>
 </div>

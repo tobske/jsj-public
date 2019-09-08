@@ -4,10 +4,12 @@
     import NavBar from './NavBar.svelte'
     import Home from './pages/Home.svelte';
     import UeberMich from './pages/UeberMich.svelte'
+    import JinShinJyutsu from './pages/JinShinJyutsu.svelte'
 
     const routes = {
       '/': Home,
       '/ueber-mich': UeberMich,
+      '/jin-shin-jyutsu': JinShinJyutsu,
       '*': Home
     }
 </script>

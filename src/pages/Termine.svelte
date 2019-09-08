@@ -3,6 +3,13 @@
         display: flex;
     }
 
+    @media (max-width: 576px) {
+      .row {
+        flex-direction: column;
+      }
+    }
+
+
     .column {
         flex: 1 1 0;
         text-align: center;

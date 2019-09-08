@@ -6,12 +6,14 @@
     import UeberMich from './pages/UeberMich.svelte'
     import JinShinJyutsu from './pages/JinShinJyutsu.svelte'
     import Partner from './pages/Partner.svelte'
+    import Termine from './pages/Termine.svelte'
 
     const routes = {
       '/': Home,
       '/ueber-mich': UeberMich,
       '/jin-shin-jyutsu': JinShinJyutsu,
       '/partner': Partner,
+      '/termine': Termine,
       '*': Home
     }
 </script>

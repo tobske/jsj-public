@@ -27,4 +27,7 @@
     <div class="nav-element">
         <a href="#/jin-shin-jyutsu">Jin Shin Jyutsu®</a>
     </div>
+    <div class="nav-element">
+        <a href="#/partner">Partner</a>
+    </div>
 </div>

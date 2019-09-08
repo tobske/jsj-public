@@ -5,11 +5,13 @@
     import Home from './pages/Home.svelte';
     import UeberMich from './pages/UeberMich.svelte'
     import JinShinJyutsu from './pages/JinShinJyutsu.svelte'
+    import Partner from './pages/Partner.svelte'
 
     const routes = {
       '/': Home,
       '/ueber-mich': UeberMich,
       '/jin-shin-jyutsu': JinShinJyutsu,
+      '/partner': Partner,
       '*': Home
     }
 </script>

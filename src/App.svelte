@@ -7,6 +7,7 @@
     import JinShinJyutsu from './pages/JinShinJyutsu.svelte'
     import Partner from './pages/Partner.svelte'
     import Termine from './pages/Termine.svelte'
+    import Kontakt from './pages/Kontakt.svelte'
 
     const routes = {
       '/': Home,
@@ -14,6 +15,7 @@
       '/jin-shin-jyutsu': JinShinJyutsu,
       '/partner': Partner,
       '/termine': Termine,
+      '/kontakt': Kontakt,
       '*': Home
     }
 </script>

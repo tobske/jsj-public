@@ -33,4 +33,7 @@
     <div class="nav-element">
         <a href="#/termine">Termine</a>
     </div>
+    <div class="nav-element">
+        <a href="#/kontakt">Kontakt</a>
+    </div>
 </div>

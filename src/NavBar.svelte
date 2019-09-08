@@ -36,4 +36,7 @@
     <div class="nav-element">
         <a href="#/kontakt">Kontakt</a>
     </div>
+    <div class="nav-element">
+        <a href="#/impressum">Impressum</a>
+    </div>
 </div>

@@ -8,6 +8,7 @@
     import Partner from './pages/Partner.svelte'
     import Termine from './pages/Termine.svelte'
     import Kontakt from './pages/Kontakt.svelte'
+    import Impressum from './pages/Impressum.svelte'
 
     const routes = {
       '/': Home,
@@ -16,6 +17,7 @@
       '/partner': Partner,
       '/termine': Termine,
       '/kontakt': Kontakt,
+      '/impressum': Impressum,
       '*': Home
     }
 </script>

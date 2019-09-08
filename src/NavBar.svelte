@@ -1,3 +1,9 @@
+<script>
+    import { routeObjects } from './routes'
+
+    const fullRoutesOnly = routeObjects.slice(0, -1);
+</script>
+
 <style>
 	.nav-bar {
 	    height: 312px;
@@ -17,26 +23,11 @@
 	}
 </style>
 
+
 <div class="nav-bar">
-    <div class="nav-element">
-        <a href="#/">Home</a>
-    </div>
-    <div class="nav-element">
-        <a href="#/ueber-mich">Über Mich</a>
-    </div>
-    <div class="nav-element">
-        <a href="#/jin-shin-jyutsu">Jin Shin Jyutsu®</a>
-    </div>
-    <div class="nav-element">
-        <a href="#/partner">Partner</a>
-    </div>
-    <div class="nav-element">
-        <a href="#/termine">Termine</a>
-    </div>
-    <div class="nav-element">
-        <a href="#/kontakt">Kontakt</a>
-    </div>
-    <div class="nav-element">
-        <a href="#/impressum">Impressum</a>
-    </div>
+    {#each fullRoutesOnly as route}
+        <div class="nav-element">
+            <a href="#{route.route}">{route.name}</a>
+        </div>
+    {/each}
 </div>

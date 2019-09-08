@@ -2,9 +2,7 @@
     import Router from 'svelte-spa-router'
 
     import NavBar from './NavBar.svelte'
-    import { plainRoutes } from './routes'
-
-    const routes = plainRoutes
+    import { routes } from './routes'
 </script>
 
 <style>

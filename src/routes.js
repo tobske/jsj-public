@@ -6,15 +6,18 @@ import Termine from './pages/Termine.svelte';
 import Kontakt from './pages/Kontakt.svelte';
 import Impressum from './pages/Impressum.svelte';
 
-const routeList = {
-  '/': Home,
-  '/ueber-mich': UeberMich,
-  '/jin-shin-jyutsu': JinShinJyutsu,
-  '/partner': Partner,
-  '/termine': Termine,
-  '/kontakt': Kontakt,
-  '/impressum': Impressum,
-  '*': Home
-};
+export const routeObjects = [
+  {route: '/', component: Home, name: 'Home'},
+  {route: '/ueber-mich', component: UeberMich, name: 'Über Mich'},
+  {route: '/jin-shin-jyutsu', component: JinShinJyutsu, name: 'Jin Shin Jyutsu®'},
+  {route: '/partner', component: Partner, name: 'Partner'},
+  {route: '/termine', component: Termine, name: 'Termine'},
+  {route: '/kontakt', component: Kontakt, name: 'Kontakt'},
+  {route: '/impressum', component: Impressum, name: ''},
+  {route: '*', component: Home}
+];
 
-export const plainRoutes = routeList;
+export const routes = routeObjects.reduce((svelteRoutes, routeObject) => {
+  svelteRoutes[routeObject.route] = routeObject.component;
+  return svelteRoutes;
+}, {});

@@ -11,9 +11,9 @@
 
 <div class="nav-bar">
     <div class="nav-element">
-        Home
+        <a href="#/">Home</a>
     </div>
     <div class="nav-element">
-        Über Mich
+        <a href="#/ueber-mich">Über Mich</a>
     </div>
 </div>

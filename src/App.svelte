@@ -1,8 +1,15 @@
 <script>
+    import Router from 'svelte-spa-router'
+
     import NavBar from './NavBar.svelte'
     import Home from './pages/Home.svelte';
+    import UeberMich from './pages/UeberMich.svelte'
 
-	let other = 'x';
+    const routes = {
+      '/': Home,
+      '/ueber-mich': UeberMich,
+      '*': Home
+    }
 </script>
 
 <style>
@@ -19,6 +26,6 @@
 
 <div class="container">
     <NavBar></NavBar>
-    <Home></Home>
+    <Router {routes}></Router>
 </div>
 

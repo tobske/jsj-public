@@ -2,24 +2,9 @@
     import Router from 'svelte-spa-router'
 
     import NavBar from './NavBar.svelte'
-    import Home from './pages/Home.svelte';
-    import UeberMich from './pages/UeberMich.svelte'
-    import JinShinJyutsu from './pages/JinShinJyutsu.svelte'
-    import Partner from './pages/Partner.svelte'
-    import Termine from './pages/Termine.svelte'
-    import Kontakt from './pages/Kontakt.svelte'
-    import Impressum from './pages/Impressum.svelte'
+    import { plainRoutes } from './routes'
 
-    const routes = {
-      '/': Home,
-      '/ueber-mich': UeberMich,
-      '/jin-shin-jyutsu': JinShinJyutsu,
-      '/partner': Partner,
-      '/termine': Termine,
-      '/kontakt': Kontakt,
-      '/impressum': Impressum,
-      '*': Home
-    }
+    const routes = plainRoutes
 </script>
 
 <style>

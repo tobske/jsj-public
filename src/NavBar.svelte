@@ -1,7 +1,7 @@
 <script>
     import { routeObjects } from './routes'
 
-    const fullRoutesOnly = routeObjects.slice(0, -1);
+    const fullRoutesOnly = routeObjects.filter(route => !!route.name);
 </script>
 
 <style>

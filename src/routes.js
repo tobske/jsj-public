@@ -13,7 +13,7 @@ export const routeObjects = [
   {route: '/partner', component: Partner, name: 'Partner'},
   {route: '/termine', component: Termine, name: 'Termine'},
   {route: '/kontakt', component: Kontakt, name: 'Kontakt'},
-  {route: '/impressum', component: Impressum, name: ''},
+  {route: '/impressum', component: Impressum, name: 'Impressum'},
   {route: '*', component: Home}
 ];
 

@@ -8,20 +8,17 @@
 
 <style>
 	.nav-bar {
-	    height: 312px;
-	    background-image: url("/signs.png"), url("/background-hands.jpg");
-        background-position: center top, center 2px;
-        background-repeat: no-repeat;
-
 	    padding: 6px 18px;
 	    display: flex;
+	    flex-wrap: wrap;
 	    align-items: end;
 	    justify-content: center;
 	}
 
 	.nav-element {
-	    margin-left: 5px;
-	    margin-right: 5px;
+	    margin-left: 6px;
+	    margin-right: 6px;
+	    margin-bottom: 12px;
 	}
 
 	a {

@@ -20,13 +20,26 @@
 	    flex: 0 1 1004px;
 	}
 
+	.header {
+	    height: 312px;
+	    background-image: url("/signs.png"), url("/background-hands.jpg");
+        background-position: center top, center 2px;
+        background-repeat: no-repeat;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+	}
+
 	.content {
 	    padding: 6px 18px;
 	}
 </style>
 
 <div class="container">
-    <NavBar></NavBar>
+    <div class="header">
+        <NavBar></NavBar>
+    </div>
     <div class="content">
         <Router {routes}></Router>
     </div>

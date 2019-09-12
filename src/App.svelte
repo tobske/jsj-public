@@ -1,8 +1,8 @@
 <script>
     import Router from 'svelte-spa-router'
 
-    import NavBar from './NavBar.svelte'
-    import { routes } from './routes'
+    import NavBar from './shared/NavBar.svelte'
+    import { routes } from './shared/routes'
 </script>
 
 <style>

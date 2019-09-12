@@ -1,10 +1,10 @@
-import Home from './pages/Home.svelte';
-import UeberMich from './pages/UeberMich.svelte';
-import JinShinJyutsu from './pages/JinShinJyutsu.svelte';
-import Partner from './pages/Partner.svelte';
-import Termine from './pages/Termine.svelte';
-import Kontakt from './pages/Kontakt.svelte';
-import Impressum from './pages/Impressum.svelte';
+import Home from '../pages/Home.svelte';
+import UeberMich from '../pages/UeberMich.svelte';
+import JinShinJyutsu from '../pages/JinShinJyutsu.svelte';
+import Partner from '../pages/Partner.svelte';
+import Termine from '../pages/Termine.svelte';
+import Kontakt from '../pages/Kontakt.svelte';
+import Impressum from '../pages/Impressum.svelte';
 
 export const routeObjects = [
   {route: '/', component: Home, name: 'Home'},

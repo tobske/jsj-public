@@ -1,4 +1,6 @@
 <script>
+    import active from 'svelte-spa-router/active'
+
     import { routeObjects } from './routes'
 
     const fullRoutesOnly = routeObjects.filter(route => !!route.name);
@@ -21,13 +23,20 @@
 	    margin-left: 5px;
 	    margin-right: 5px;
 	}
-</style>
 
+	a {
+        color: #333;
+	}
+
+	:global(a.active) {
+	    font-weight: bold;
+	}
+</style>
 
 <div class="nav-bar">
     {#each fullRoutesOnly as route}
         <div class="nav-element">
-            <a href="#{route.route}">{route.name}</a>
+            <a href="#{route.route}" use:active>{route.name}</a>
         </div>
     {/each}
 </div>

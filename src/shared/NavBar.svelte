@@ -23,10 +23,12 @@
 
 	a {
         color: #333;
+        font-weight: bold;
 	}
 
 	:global(a.active) {
-	    font-weight: bold;
+	    font-style: italic;
+	    color: #ba0000;
 	}
 </style>
 

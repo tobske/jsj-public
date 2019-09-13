@@ -12,7 +12,7 @@
 
         background-color: #e7b556;
         background-image: url("/background-man.jpg"), url("/background.jpg");
-        background-position: center 315px, center top;
+        background-position: center 312px, center -2px;
         background-repeat: repeat-y;
     }
 
@@ -23,7 +23,7 @@
 	.header {
 	    height: 312px;
 	    background-image: url("/signs.png"), url("/background-hands.jpg");
-        background-position: center top, center 2px;
+        background-position: center top, center top;
         background-repeat: no-repeat;
 
         display: flex;

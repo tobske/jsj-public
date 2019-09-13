@@ -8,7 +8,8 @@
 <style>
     :global(body) {
         display: flex;
-        justify-content: center;
+        flex-direction: column;
+        align-items: center;
 
         background-color: #e7b556;
         background-image: url("/background-man.jpg"), url("/background.jpg");
@@ -17,7 +18,8 @@
     }
 
 	.container {
-	    flex: 0 1 1004px;
+	    width: 100%;
+	    max-width: 1004px;
 	}
 
 	.header {

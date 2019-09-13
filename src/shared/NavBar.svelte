@@ -7,12 +7,16 @@
 </script>
 
 <style>
-	.nav-bar {
-	    padding: 6px 18px;
+    .nav-bar-container {
 	    display: flex;
-	    flex-wrap: wrap;
+        justify-content: center;
+    }
+
+	.nav-bar {
+	    overflow-x: scroll;
+
+	    display: flex;
 	    align-items: end;
-	    justify-content: center;
 	}
 
 	.nav-element {
@@ -21,9 +25,18 @@
 	    margin-bottom: 12px;
 	}
 
+	.nav-element:first-child {
+	    margin-left: 18px;
+	}
+
+	.nav-element:last-child {
+	    margin-right: 18px;
+	}
+
 	a {
         color: #333;
         font-weight: bold;
+        white-space: nowrap;
 	}
 
 	:global(a.active) {
@@ -32,10 +45,12 @@
 	}
 </style>
 
-<div class="nav-bar">
-    {#each fullRoutesOnly as route}
-        <div class="nav-element">
-            <a href="#{route.route}" use:active>{route.name}</a>
-        </div>
-    {/each}
+<div class="nav-bar-container">
+    <div class="nav-bar">
+        {#each fullRoutesOnly as route}
+            <div class="nav-element">
+                <a href="#{route.route}" use:active>{route.name}</a>
+            </div>
+        {/each}
+    </div>
 </div>

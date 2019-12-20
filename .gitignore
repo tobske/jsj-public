@@ -4,3 +4,6 @@ public/bundle.*
 .idea
 !.idea/runConfigurations/
 local_only
+
+# GitHub Pages
+docs/*.map

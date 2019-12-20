@@ -27,7 +27,7 @@
     <h1>Partner</h1>
     <div class="partners">
         <div class="partner">
-            <img src="/anne.jpg" alt="Anne Steinmann" width="120px" height="120px">
+            <img src="anne.jpg" alt="Anne Steinmann" width="120px" height="120px">
             <h4>Anne Steinmann</h4>
             <p>
                 TherapeuticTouch - Meditation - Heilsame Klangkunst -
@@ -41,7 +41,7 @@
             </p>
         </div>
         <div class="partner">
-            <img src="/ulrich.jpg" alt="Ulrich Böld" width="120px" height="120px">
+            <img src="ulrich.jpg" alt="Ulrich Böld" width="120px" height="120px">
             <h4>Ulrich Böld</h4>
             <p>Heilpraktiker für Psychotherapie</p>
             <p>ulrichbold@aol.com</p>

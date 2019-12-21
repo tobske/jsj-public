@@ -6,4 +6,4 @@ public/bundle.*
 local_only
 
 # GitHub Pages
-docs/*.map
+docs/bundle.*

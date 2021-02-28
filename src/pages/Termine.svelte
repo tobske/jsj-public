@@ -53,17 +53,8 @@
         </div>
         <div class="column">
             <div class="date">
-                <h4>Einführung in die Anwendung</h4>
-                <p>18.09.2019 Seminarbeginn 19.00 Uhr</p>
-            </div>
-            <div class="date">
                 <h4>Hand in Hand mit Anne Steinmann</h4>
                 <p>Mittwochs in der Holzmühle</p>
-            </div>
-            <div class="date">
-                <h4>Hand in Hand mit Ines Haftmann</h4>
-                <p>06.11.2019-13.11.2019</p>
-                <p>Dresden Könneritzstraße 19</p>
             </div>
         </div>
     </div>

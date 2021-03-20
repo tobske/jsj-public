@@ -11,7 +11,7 @@ export const routeObjects = [
   {route: '/', component: Home, name: 'Home'},
   {route: '/ueber-mich', component: UeberMich, name: 'Über Mich'},
   {route: '/jin-shin-jyutsu', component: JinShinJyutsu, name: 'Jin Shin Jyutsu®'},
-  {route: '/blockaden-loesen', component: BlockadenLoesen, name: 'Stellvertretende Blockaden Lösen'},
+  {route: '/blockaden-loesen', component: BlockadenLoesen, name: 'Blockaden Lösen'},
   {route: '/partner', component: Partner, name: 'Partner'},
   {route: '/termine', component: Termine, name: 'Termine'},
   {route: '/kontakt', component: Kontakt, name: 'Kontakt'},

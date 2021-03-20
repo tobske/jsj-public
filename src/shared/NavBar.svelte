@@ -13,8 +13,6 @@
     }
 
 	.nav-bar {
-	    overflow-x: scroll;
-
 	    display: flex;
 	    align-items: end;
 	}

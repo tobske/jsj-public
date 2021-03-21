@@ -46,8 +46,8 @@
             <p>von 19.00 Uhr bis 21.30 Uhr</p>
             <h4>Terminabsprache und Anmeldung</h4>
             <p>
-                Silke Heinisch
-                0151 68128102
+                Silke Heinisch<br>
+                0151 68128102<br>
                 jsj-silke@gmx.de
             </p>
         </div>

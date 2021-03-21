@@ -47,11 +47,12 @@
             <p>ulrichbold@aol.com</p>
             <p>http://ulrichbold.com</p>
         </div>
-                <div class="partner">
-                      <h4>Vera Frohberg</h4>
+        <div class="partner">
+            <img src="Vera Bohnenberg.jpg" alt="Vera Frohberg" width="120px" height="120px">
+              <h4>Vera Frohberg</h4>
             <p>Heilpraktikerin</p>
             <p>0721/4708588</p>
-            <p>www.hp-frohberg.de</p>
+            <p><a href="www.hp-frohberg.de">www.hp-frohberg.de</a></p>
         </div>
 
     </div>

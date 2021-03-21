@@ -34,7 +34,7 @@
                 Wahrnehmungsschulung
             </p>
             <p>0173-9836738 / info@anne-steinmann.de</p>
-            <p>www.anne-steinmann.de</p>
+            <p><a href="www.anne-steinmann.de">www.anne-steinmann.de</a></p>
             <p>
                 Kurse und Einzelbehandlungen in der Praxis im
                 Hofgut Holzmühle, 67368 Westheim
@@ -45,7 +45,7 @@
             <h4>Ulrich Böld</h4>
             <p>Heilpraktiker für Psychotherapie</p>
             <p>ulrichbold@aol.com</p>
-            <p>http://ulrichbold.com</p>
+            <p><a href="http://ulrichbold.com">http://ulrichbold.com</a></p>
         </div>
         <div class="partner">
             <img src="vera_small.jpg" alt="Vera Frohberg" width="120px" height="120px">

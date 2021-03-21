@@ -48,7 +48,7 @@
             <p>http://ulrichbold.com</p>
         </div>
         <div class="partner">
-            <img src="vera.jpg" alt="Vera Frohberg" width="120px" height="120px">
+            <img src="vera_small.jpg" alt="Vera Frohberg" width="120px" height="120px">
               <h4>Vera Frohberg</h4>
             <p>Heilpraktikerin</p>
             <p>0721/4708588</p>

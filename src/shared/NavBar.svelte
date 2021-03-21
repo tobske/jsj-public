@@ -13,6 +13,7 @@
     }
 
 	.nav-bar {
+	    overflow: auto;
 	    display: flex;
 	    align-items: end;
 	}
@@ -47,6 +48,7 @@
     <div class="nav-bar">
         {#each fullRoutesOnly as route}
             <div class="nav-element">
+                <!--suppress HtmlUnknownAnchorTarget -->
                 <a href="#{route.route}" use:active>{route.name}</a>
             </div>
         {/each}

@@ -47,5 +47,12 @@
             <p>ulrichbold@aol.com</p>
             <p>http://ulrichbold.com</p>
         </div>
+                <div class="partner">
+                      <h4>Vera Frohberg</h4>
+            <p>Heilpraktikerin</p>
+            <p>0721/4708588</p>
+            <p>www.hp-frohberg.de</p>
+        </div>
+
     </div>
 </div>

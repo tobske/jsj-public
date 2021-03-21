@@ -34,7 +34,7 @@
                 Wahrnehmungsschulung
             </p>
             <p>0173-9836738 / info@anne-steinmann.de</p>
-            <p><a href="www.anne-steinmann.de">www.anne-steinmann.de</a></p>
+            <p><a href="http://anne-steinmann.de/">www.anne-steinmann.de</a></p>
             <p>
                 Kurse und Einzelbehandlungen in der Praxis im
                 Hofgut Holzmühle, 67368 Westheim
@@ -52,7 +52,7 @@
               <h4>Vera Frohberg</h4>
             <p>Heilpraktikerin</p>
             <p>0721/4708588</p>
-            <p><a href="www.hp-frohberg.de">www.hp-frohberg.de</a></p>
+            <p><a href="http://hpbohnen.avior.uberspace.de/">www.hp-frohberg.de</a></p>
         </div>
 
     </div>

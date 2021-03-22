@@ -34,7 +34,7 @@
 	}
 
 	.content {
-	    padding: 6px 18px;
+	    padding: 6px 30px;
 	}
 </style>
 

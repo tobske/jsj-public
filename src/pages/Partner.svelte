@@ -54,6 +54,12 @@
             <p>0721/4708588</p>
             <p><a href="http://hpbohnen.avior.uberspace.de/">www.hp-frohberg.de</a></p>
         </div>
-
+    <div class="partners">
+        <div class="partner">
+            <h4>Christian Grygas</h4>
+            <p>Jin Shin Jyutsu in Dresden            </p>
+            <p><a href="http://www.jsj-in-dresden.de/">http://www.jsj-in-dresden.de/</a></p>
+        </div>
+   </div>
     </div>
 </div>

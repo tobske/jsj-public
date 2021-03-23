@@ -16,7 +16,7 @@
 
     .column {
         flex: 1 1 0;
-        text-align: center;
+        text-align: left;
     }
 
     .date {

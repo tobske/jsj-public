@@ -56,7 +56,7 @@
         </div>
     <div class="partners">
         <div class="partner">
-            <img src="Christian.jpg" alt="Christian Grygas" width="120px" height="120px">
+            <img src="christian.jpg" alt="Christian Grygas" width="120px" height="120px">
             <h4>Christian Grygas</h4>
             <p>Jin Shin Jyutsu in Dresden            </p>
             <p><a href="http://www.jsj-in-dresden.de/">http://www.jsj-in-dresden.de/</a></p>

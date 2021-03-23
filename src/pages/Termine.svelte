@@ -39,14 +39,12 @@
     <h1>Termine</h1>
     <div class="row">
         <div class="column">
-            <h4>Einzeltermine nach persönlicher Absprache</h4>
-            <p>oder</p>
             <h4>Wöchentliche Treffen von Selbsthilfegruppen</h4>
             <p>Dienstag von 09:30 Uhr bis 12:00 Uhr</p>
             <p>von 19.00 Uhr bis 21.30 Uhr</p>
             <h4>Hand in Hand mit Anne Steinmann</h4>
             <p>Mittwochs in der Holzmühle</p>
-            <h4>Terminabsprache und Anmeldung</h4>
+            <h4>Einzeltermine nach Absprache und Anmeldung</h4>
             <p>
                 Silke Heinisch<br>
                 0151 68128102<br>
@@ -55,8 +53,8 @@
         </div>
         <div class="column">
             <div class="date">
-                <h4>25.04. 2021 - Praxistag in Dresden mit Ines Haftmann</h4>
-                <p>10 - 16 Uhr, mit Christian Grygas</p>
+                <h4>25.04. 2021 - Praxistag in Dresden</h4>
+                <p>10 - 16 Uhr, mit Christian Grygas und Ines Haftmann</p>
                 <h4>26. - 29.04.2021 - Einzeltermine in Dresden</h4>
                 <h4>12. - 13.06.2021 - Der Boden, der Aufprall und das Lösen</h4>
                 <p>10. - 18 Uhr, mit Rene Wermke in der Holzmühle</p>

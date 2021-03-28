@@ -62,7 +62,7 @@
             <p><a href="http://www.jsj-in-dresden.de/">http://www.jsj-in-dresden.de/</a></p>
         </div>
         <div class="partner">
-            <img src="anne.jpg" alt="Anne Ulrich" width="120px" height="120px">
+            <img src="anneulrich.jpg" alt="Anne Ulrich" width="120px" height="120px">
             <h4>Anne Ulrich</h4>
             <p>Heilpraktikerin, Seminare & Forschung</p>
                    </div>

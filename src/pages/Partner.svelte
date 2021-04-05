@@ -27,13 +27,9 @@
 			<h4>Anne Steinmann</h4>
 			<p>
 				TherapeuticTouch - Meditation - Heilsame Klangkunst -
-				Wahrnehmungsschulung
-			</p>
-			<p>0173-9836738 / info@anne-steinmann.de</p>
-			<p>
-				<a href="http://anne-steinmann.de/">www.anne-steinmann.de</a>
-			</p>
-			<p>
+				Wahrnehmungsschulung</br>
+			0173-9836738 / info@anne-steinmann.de</br>
+	<a href="http://anne-steinmann.de/">www.anne-steinmann.de</a></br>
 				Kurse und Einzelbehandlungen in der Praxis im
 				Hofgut Holzmühle, 67368 Westheim
 			</p>

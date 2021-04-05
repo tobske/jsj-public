@@ -27,15 +27,17 @@
 			<h4>Anne Steinmann</h4>
 			<p>
 				TherapeuticTouch<br>
-			0173-9836738 / info@anne-steinmann.de<br>
-	<a href="http://anne-steinmann.de/">www.anne-steinmann.de</a>
+				0173-9836738 / info@anne-steinmann.de
+			</p>
+			<p>	
+				<a href="http://anne-steinmann.de/">www.anne-steinmann.de</a>
 			</p>
 		</div>
 		<div class="partner">
 			<img src="ulrich.jpg" alt="Ulrich Böld" width="120px" height="120px">
 			<h4>Ulrich Böld</h4>
-			<p>Heilpraktiker für Psychotherapie</p>
-			<p>ulrichbold@aol.com</p>
+			<p>Heilpraktiker für Psychotherapie<br>
+			ulrichbold@aol.com</p>
 			<p>
 				<a href="http://ulrichbold.com">http://ulrichbold.com</a>
 			</p>
@@ -43,8 +45,8 @@
 		<div class="partner">
 			<img src="vera.jpg" alt="Vera Frohberg" width="120px" height="120px">
 			<h4>Vera Frohberg</h4>
-			<p>Heilpraktikerin</p>
-			<p>0721/4708588</p>
+			<p>Heilpraktikerin<br>
+			0721/4708588</p>
 			<p>
 				<a href="http://hpbohnen.avior.uberspace.de/">www.hp-frohberg.de</a>
 			</p>

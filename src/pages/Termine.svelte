@@ -41,7 +41,6 @@
         <div class="column">
             <h4>Wöchentliche Treffen von Selbsthilfegruppen</h4>
             <p>Dienstag von 09:30 Uhr bis 12:00 Uhr</p>
-            <p>von 19.00 Uhr bis 21.30 Uhr</p>
             <h4>Hand in Hand mit Anne Steinmann</h4>
             <p>Mittwochs in der Holzmühle</p>
             <h4>Einzeltermine nach Absprache und Anmeldung</h4>

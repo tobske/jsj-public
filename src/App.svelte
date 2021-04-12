@@ -11,21 +11,21 @@
         flex-direction: column;
         align-items: center;
 
-        background-color: #e7b556;
-        background-image: url("background-man.jpg"), url("background.jpg");
-        background-position: center 312px, center -2px;
-        background-repeat: repeat-y;
+        background-color: #333;
     }
 
 	.container {
 	    width: 100%;
 	    max-width: 1004px;
+        flex: 1 1 auto;
+
+        background-color: #fff;
 	}
 
 	.header {
 	    height: 312px;
-	    background-image: url("signs.png"), url("background-hands.jpg");
-        background-position: center top, center top;
+	    background-image: url("signs.png");
+        background-position: center top;
         background-repeat: no-repeat;
 
         display: flex;
@@ -35,6 +35,11 @@
 
 	.content {
 	    padding: 6px 30px;
+        height: 100%;
+
+        background-image: url("background-man-circle.jpg");
+        background-repeat: no-repeat;
+        background-position: center top;
 	}
 </style>
 

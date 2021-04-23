@@ -1,9 +1,5 @@
 .DS_Store
 node_modules
-public/bundle.*
-.idea
-!.idea/runConfigurations/
-local_only
-
-# GitHub Pages
-docs/bundle.*
+/.svelte
+/build
+/functions

@@ -51,7 +51,7 @@
 <style>
     .header {
         height: 312px;
-        background-image: url('signs.png'), url('background-hands.jpg');
+        background-image: url('/signs.png'), url('/background-hands.jpg');
         background-position: center top, center top;
         background-repeat: no-repeat;
 

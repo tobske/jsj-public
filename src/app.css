@@ -18,7 +18,7 @@ body {
 	color: #333;
 
 	background-color: #e7b556;
-	background-image: url("background-man.jpg"), url("background.jpg");
+	background-image: url("/background-man.jpg"), url("/background.jpg");
 	background-position: center 312px, center -2px;
 	background-repeat: repeat-y;
 }

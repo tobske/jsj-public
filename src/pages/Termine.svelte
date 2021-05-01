@@ -52,9 +52,6 @@
         </div>
         <div class="column">
             <div class="date">
-                <h4>25.04. 2021 - Praxistag in Dresden</h4>
-                <p>10 - 16 Uhr, mit Christian Grygas und Ines Haftmann</p>
-                <h4>26. - 29.04.2021 - Einzeltermine in Dresden</h4>
                 <h4>12. - 13.06.2021 - Der Boden, der Aufprall und das Lösen</h4>
                 <p>10. - 18 Uhr, mit Rene Wermke in der Holzmühle</p>
                 <h4>14. - 15.06.2021 - Einzeltermine mit Rene Wermke</h4>

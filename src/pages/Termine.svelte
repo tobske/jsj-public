@@ -52,9 +52,9 @@
         </div>
         <div class="column">
             <div class="date">
-                <h4>12. - 13.06.2021 - Der Boden, der Aufprall und das Lösen</h4>
+                <h4>24. - 25.07.2021 - Der Boden, der Aufprall und das Lösen</h4>
                 <p>10. - 18 Uhr, mit Rene Wermke in der Holzmühle</p>
-                <h4>14. - 15.06.2021 - Einzeltermine mit Rene Wermke</h4>
+                <h4>22. - 23.07.2021 - Einzeltermine mit Rene Wermke</h4>
                 <p><a href="https://www.interkinetix.de/">https://www.interkinetix.de/</a></p>
             </div>
         </div>

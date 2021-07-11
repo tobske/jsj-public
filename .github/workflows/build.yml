@@ -6,12 +6,12 @@ on:
       - develop
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v1
-    - name: Use Node.js 10.x
+    - name: Use Node.js 14.x
       uses: actions/setup-node@v1
       with:
         node-version: '14.x'
@@ -20,7 +20,7 @@ jobs:
         npm ci
         npm run build
     - name: Deploy
-      uses: JamesIves/github-pages-deploy-action@releases/v3
+      uses: JamesIves/github-pages-deploy-action@4.1.4
       with:
         ACCESS_TOKEN: ${{ secrets.access_token }}
         BASE_BRANCH: develop # The branch the action should deploy from.

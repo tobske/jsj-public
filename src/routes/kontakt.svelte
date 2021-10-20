@@ -26,10 +26,9 @@
     <h1>Kontakt</h1>
     <div class="person">
         <img src="silke.jpg" alt="Silke Heinisch" width="180px" height="180px">
-        <h4>Telefon</h4>
-        <p>0151 68128102</p>
-        <h4>E-Mail</h4>
-        <p>jsj-silke@gmx.de</p>
+        <p><h4>Telefon:</h4> 0151 68128102</p>
+        <p><h4>E-Mail:</h4> jsj-silke@gmx.de</p>
+        <p><h4>Praxisadresse:</h4> Hofgut Holzmühle - 67368 Westheim (Pfalz)</p>
         <p>Anfragen bezüglich Terminen per E-Mail werden schnellstmöglich beantwortet.</p>
     </div>
 </div>

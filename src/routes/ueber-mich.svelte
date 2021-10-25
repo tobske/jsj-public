@@ -12,6 +12,6 @@
         Dort hatte ich im Jahr 2001 den ersten Kontakt mit Jin Shin Jyutsu® (JSJ) und absolvierte die Ausbildung zur Jin Shin Jyutsu® Praktikerin.
         Ich folgte meiner inneren Stimme und begann mit wachsendem Erfolg zu praktizieren.
         Die vielen Erfahrungen, die ich mit den Menschen bei dieser Arbeit teilen durfte, sind die heutige Basis, für meine ganzheitliche Praxis.
-        Seit 2012 lebe und arbeite ich im Raum Karlsruhe als Jin Shin Jyutsu® Praktikerin mit schamanisch-systemischem Ansatz.
+        Seit 2021 lebe und arbeite ich in der Pfalz als Jin Shin Jyutsu® Praktikerin mit schamanisch-systemischem Ansatz.
     </p>
 </div>

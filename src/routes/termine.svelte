@@ -7,7 +7,7 @@
     <div class="row">
         <div class="column">
             <h4>Wöchentliche Treffen von Selbsthilfegruppen</h4>
-            <p>Ab Januar 2022: Dienstag von 09:30 Uhr bis 12:00 Uhr</p>
+            <p>Ab Januar 2022<br /> Dienstag von 09:30 Uhr bis 12:00 Uhr</p>
             <h4>Hand in Hand mit Anne Steinmann</h4>
             <p>Mittwochs in der Holzmühle</p>
             <h4>Einzeltermine nach Absprache und Anmeldung</h4>
@@ -20,7 +20,7 @@
         <div class="column">
             <div class="date">
                 <h4>Workshop</h4>
-            <p>03.-07.12.2021 : Intensiv Woche "Rückwärts Strömen" mit Anne Steinmann</p>
+            <p>03.-07.12.2021<br /> Intensiv Woche "Rückwärts Strömen" mit Anne Steinmann</p>
             </div>
         </div>
     </div>

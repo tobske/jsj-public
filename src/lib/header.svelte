@@ -6,42 +6,55 @@
     <div class="nav-bar-container">
         <div class="nav-bar">
             <div class="nav-element">
-                <a sveltekit:prefetch class:active={$page.path === '/'} href="/">Home</a>
+                <a sveltekit:prefetch class:active={$page.url.pathname === '/'} href="/">Home</a>
             </div>
             <div class="nav-element">
-                <a sveltekit:prefetch class:active={$page.path === '/ueber-mich'} href="/ueber-mich"
-                >Über Mich</a
+                <a
+                    sveltekit:prefetch
+                    class:active={$page.url.pathname === '/ueber-mich'}
+                    href="/ueber-mich">Über Mich</a
                 >
             </div>
             <div class="nav-element">
                 <a
                     sveltkit:prefetch
-                    class:active={$page.path === '/jin-shin-jyutsu'}
+                    class:active={$page.url.pathname === '/jin-shin-jyutsu'}
                     href="/jin-shin-jyutsu">Jin Shin Jyutsu®</a
                 >
             </div>
             <div class="nav-element">
                 <a
                     sveltkit:prefetch
-                    class:active={$page.path === '/blockaden-loesen'}
+                    class:active={$page.url.pathname === '/blockaden-loesen'}
                     href="/blockaden-loesen">Blockaden Lösen</a
                 >
             </div>
             <div class="nav-element">
-                <a sveltkit:prefetch class:active={$page.path === '/partner'} href="/partner">Partner</a
+                <a
+                    sveltkit:prefetch
+                    class:active={$page.url.pathname === '/partner'}
+                    href="/partner">Partner</a
                 >
             </div>
             <div class="nav-element">
-                <a sveltkit:prefetch class:active={$page.path === '/termine'} href="/termine">Termine</a
+                <a
+                    sveltkit:prefetch
+                    class:active={$page.url.pathname === '/termine'}
+                    href="/termine">Termine</a
                 >
             </div>
             <div class="nav-element">
-                <a sveltkit:prefetch class:active={$page.path === '/kontakt'} href="/kontakt">Kontakt</a
+                <a
+                    sveltkit:prefetch
+                    class:active={$page.url.pathname === '/kontakt'}
+                    href="/kontakt">Kontakt</a
                 >
             </div>
             <div class="nav-element">
-                <a sveltkit:prefetch class:active={$page.path === '/impressum'} href="/impressum"
-                >Impressum</a
+                <a
+                    sveltkit:prefetch
+                    class:active={$page.url.pathname === '/impressum'}
+                    href="/impressum">Impressum</a
                 >
             </div>
         </div>
@@ -91,9 +104,9 @@
         white-space: nowrap;
     }
 
+    /*noinspection CssUnusedSymbol*/
     :global(a.active) {
         font-style: italic;
         color: #ba0000;
     }
-
 </style>

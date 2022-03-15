@@ -19,9 +19,14 @@
         </div>
         <div class="column">
             <div class="date">
-                <h4>Workshop</h4>
-            <p>03.-07.12.2021<br /> Intensiv Woche "Rückwärts Strömen" mit Anne Steinmann</p>
+                <h4>JSJ-Seminar</h4>
+            <p>18.03.2022<br />10 - 18 Uhr In der Holzmühle</p>
             </div>
+                        <div class="date">
+                <h4>Intensivströmen</h4>
+            <p>04. - 08.05.2022<br />In der Holzmühle</p>
+            </div>
+
         </div>
     </div>
 </div>

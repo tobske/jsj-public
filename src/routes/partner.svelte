@@ -20,7 +20,7 @@
 </style>
 
 <div in:fade>
-	<h1>Partner</h1>
+	<h1>Partner*innen</h1>
 	<div class="partners">
 		<div class="partner">
 			<img src="anne.jpg" alt="Anne Steinmann" width="120px" height="120px">
@@ -58,11 +58,6 @@
 			<p>
 				<a href="http://www.jsj-in-dresden.de/">http://www.jsj-in-dresden.de/</a>
 			</p>
-		</div>
-		<div class="partner">
-			<img src="anneulrich.jpg" alt="Anne Ulrich" width="120px" height="120px">
-			<h4>Anne Ulrich</h4>
-			<p>Heilpraktikerin, Seminare & Forschung</p>
 		</div>
 	</div>
 </div>

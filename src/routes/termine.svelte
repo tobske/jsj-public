@@ -18,10 +18,6 @@
             </p>
         </div>
         <div class="column">
-            <div class="date">
-                <h4>JSJ-Seminar</h4>
-            <p>04.06.2022<br />10 - 18 Uhr In der Holzmühle</p>
-            </div>
                         <div class="date">
                 <h4>Strömtreff</h4>
             <p>30.04.2022<br />10 - 12:30 Uhr In der Holzmühle</p>
@@ -30,6 +26,10 @@
                         <div class="date">
                 <h4>Intensivströmen</h4>
             <p>04. - 08.05.2022<br />In der Holzmühle</p>
+            </div>
+                        <div class="date">
+                <h4>JSJ-Seminar</h4>
+            <p>04.06.2022<br />10 - 18 Uhr In der Holzmühle</p>
             </div>
 
         </div>

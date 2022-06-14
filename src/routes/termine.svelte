@@ -6,8 +6,6 @@
     <h1>Termine</h1>
     <div class="row">
         <div class="column">
-            <h4>Wöchentliche Treffen von Selbsthilfegruppen</h4>
-            <p>Ab Januar 2022<br /> Dienstag von 09:30 Uhr bis 12:00 Uhr</p>
             <h4>Hand in Hand mit Anne Steinmann</h4>
             <p>Mittwochs in der Holzmühle</p>
             <h4>Einzeltermine nach Absprache und Anmeldung</h4>
@@ -19,17 +17,16 @@
         </div>
         <div class="column">
                         <div class="date">
-                <h4>Strömtreff</h4>
-            <p>30.04.2022<br />10 - 12:30 Uhr In der Holzmühle</p>
+                <h4>offene JSJ-Gruppe </h4>
+            <p>02.07.2022<br />10 - 12:30 Uhr</p>
             </div>
             
                         <div class="date">
-                <h4>Intensivströmen</h4>
-            <p>04. - 08.05.2022<br />In der Holzmühle</p>
+                <h4>Intensivbegleitung nach persönlicher Absprache für Intensivströmen </h4>
             </div>
                         <div class="date">
                 <h4>JSJ-Seminar</h4>
-            <p>04.06.2022<br />10 - 18 Uhr In der Holzmühle</p>
+            <p>30.07.2022 / 24.09.2022 / 26.11.2022<br />10 - 18 Uhr</p>
             </div>
 
         </div>

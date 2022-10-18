@@ -18,7 +18,7 @@
         <div class="column">
                         <div class="date">
                 <h4>offene JSJ-Gruppe </h4>
-            <p>27.08.2022<br />10 - 12:30 Uhr</p>
+            <p>22.10.2022<br />10 - 12:30 Uhr</p>
             </div>
             
                         <div class="date">
@@ -26,7 +26,7 @@
             </div>
                         <div class="date">
                 <h4>JSJ-Seminar</h4>
-            <p>30.07.2022 / 24.09.2022 / 26.11.2022<br />10 - 18 Uhr</p>
+            <p>26.11.2022<br />10 - 18 Uhr</p>
             </div>
 
         </div>

@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-    <title>Home</title>
+    <title>Home - Silke Heinisch</title>
 </svelte:head>
 
 <div in:fade>

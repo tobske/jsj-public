@@ -28,7 +28,7 @@
             
                          <div class="date">
                 <h4>Heilreise - Geburt des eigenen Kindes heilen</h4>
-            <p>26.02.2023 mit Raffaela stefini (Hebamme)</p>
+            <p>26.02.2023 mit Raffaela Stefini (Hebamme)</p>
             </div>
                    <div class="date">
                 <h4>Tagesseminar Hormonyoga</h4>

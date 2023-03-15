@@ -8,8 +8,9 @@
         <div class="column">
             <h4>Hand in Hand mit Anne Steinmann</h4>
             <p>Mittwochs in der Holzmühle</p>
-            <h4>Einzeltermine nach Absprache und Anmeldung</h4>
+            <h4>Einzeltermine nach Absprache und Anmeldung sowie Strömprogramm für individuelle Beschwerden per Telefon</h4>
             <p>
+       
                 Silke Heinisch<br />
                 0151 68128102 - jsj-silke@gmx.de<br />
                 Praxisadresse: Hofgut Holzmühle - 67368 Westheim (Pfalz)

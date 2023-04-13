@@ -19,15 +19,13 @@
         <div class="column">
                         <div class="date">
                 <h4>JSJ-Termine </h4>
-            <p>25.02.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
-            <p>18.03.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
-            <p>22.04.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
-            <p>17.06.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
-            <p>29.07.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
-            <p>26.08.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
-            <p>23.09.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
-            <p>28.10.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
-            <p>18.11.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
+            <p>22.04.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
+            <p>17.06.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
+            <p>29.07.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
+            <p>26.08.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
+            <p>23.09.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
+            <p>28.10.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
+            <p>18.11.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
             </div>
             
                          <div class="date">

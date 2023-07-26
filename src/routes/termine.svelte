@@ -19,22 +19,11 @@
         <div class="column">
                         <div class="date">
                 <h4>JSJ-Termine </h4>
-            <p>22.04.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
-            <p>17.06.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
             <p>29.07.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
             <p>26.08.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
             <p>23.09.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
             <p>28.10.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
             <p>18.11.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
-            </div>
-            
-                         <div class="date">
-                <h4>Heilreise - Geburt des eigenen Kindes heilen</h4>
-            <p>26.02.2023 mit Raffaela Stefini (Hebamme)</p>
-            </div>
-                   <div class="date">
-                <h4>Tagesseminar Hormonyoga</h4>
-            <p>13.05.2023 mit Gabriele Hogeforster</p>
             </div>
         <div class="date">
                 <h4>Intensivbegleitung nach persönlicher Absprache für Intensivströmen </h4>

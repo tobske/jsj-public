@@ -19,15 +19,12 @@
         <div class="column">
                         <div class="date">
                 <h4>JSJ-Termine </h4>
-            <p>12.08.2023: JSJ-Gruppe 10-13 Uhr </p>
-            <p>26.08.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
-            <p>23.09.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
             <p>28.10.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
             <p>18.11.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
             </div>
         <div class="date">
-                <h4>Intensivbegleitung nach persönlicher Absprache für Intensivströmen </h4>
-                <p>07.-11.10.2023: Intensivströmen</p>
+                <h4>  </h4>
+                <p> </p>
                        
 </div>
                

@@ -6,8 +6,6 @@
     <h1>Termine</h1>
     <div class="row">
         <div class="column">
-            <h4>Hand in Hand mit Anne Steinmann</h4>
-            <p>Mittwochs in der Holzmühle</p>
             <h4>Einzeltermine nach Absprache und Anmeldung sowie Strömprogramm für individuelle Beschwerden per Telefon</h4>
             <p>
        
@@ -19,8 +17,8 @@
         <div class="column">
                         <div class="date">
                 <h4>JSJ-Termine </h4>
-            <p>28.10.2023: JSJ-Gruppe 10-13 Uhr / Bachblüten Tänze 14-16 Uhr</p>
-            <p>18.11.2023: JSJ-Gruppe 10-13 Uhr / Seminar 14-18 Uhr</p>
+            <p>13.01.2024 10.30-12.30 Uhr : Jin Shin Jyutsu kennenlernen / - Kirchbergstrasse 2, 75073 Gondelsheim </p>
+            <p>04.02.2024 10.30-12.30 Uhr : JSJ für Hunde zum Kennenlernen  / Steinhalderstrasse, 66999 Hinterweidenthal (Hundesportverein)</p>
             </div>
         <div class="date">
                 <h4>  </h4>

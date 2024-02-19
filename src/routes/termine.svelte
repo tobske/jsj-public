@@ -17,10 +17,14 @@
         <div class="column">
                         <div class="date">
                 <h4>JSJ-Termine </h4>
-            <p>04.02.2024 10.30-12.30 Uhr : JSJ für Hunde zum Kennenlernen  / Steinhalderstrasse, 66999 Hinterweidenthal (Hundesportverein)</p>
-            <p>03.02.2024 10.00-15.00 Uhr: Selbst-Hilfe-Kurs: Die 26 Sicherheitsenergieschlösser / Kirchbergstrasse 2 in Gondelsheim</p>
+            <p>25.02.2024 10.00-15.00 Uhr: Selbst-Hilfe-Kurs: Die 26 Sicherheitsenergieschlösser / Kirchbergstrasse 2 in Gondelsheim</p>
+            <p>16.03.2024 10.00-17.00 Uhr : Blockaden Lösen  bei Dahn</p>
+            <p>24.03.2024 : JSJ Praxistag bei Dahn</p>
+            <p>20./21.04.2024 : 26 Sicherheitsenergieschlösser bei Potsdam</p>
+            <p>28./29.09.2024 : 26 Sicherheitsenergieschlösser bei Dahn</p>
+            <p>19./20.10.2024 : 26 Sicherheitsenergieschlösser bei Dahn</p>
             <h4>JSJ-Gruppe </h4>
-            <p>24.02. / 23.03. / 27.04. / 25.05. / 29.05.</p>
+            <p>24.02. / 23.03. / 27.04. / 25.05. / 29.06.</p>
          <p></p>
                         </div>
         <div class="date">

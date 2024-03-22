@@ -17,14 +17,18 @@
         <div class="column">
                         <div class="date">
                 <h4>JSJ-Termine </h4>
-            <p>25.02.2024 10.00-15.00 Uhr: Selbst-Hilfe-Kurs: Die 26 Sicherheitsenergieschlösser / Kirchbergstrasse 2 in Gondelsheim</p>
-            <p>16.03.2024 10.00-17.00 Uhr : Blockaden Lösen  bei Dahn</p>
             <p>24.03.2024 : JSJ Praxistag bei Dahn</p>
+   <p>19.04.2024 : Einführung in die Grundlagen des JSJ - 19 Uhr Heilpraxis Meilenweit</p>
             <p>20./21.04.2024 : 26 Sicherheitsenergieschlösser bei Potsdam</p>
-            <p>28./29.09.2024 : 26 Sicherheitsenergieschlösser bei Dahn</p>
+     <p>22.04.2024 : Einführung in die Grundlagen des JSJ - 19 Uhr Geburtshaus am Neuen Garten</p>
+ <p>24.04.2024 : Fingerströmen in der Schwangerschaft - 19.30 Uhr Geburtshaus am Neuen Garten</p>
+ <p>27./28.04.2024 : 26 Sicherheitsenergieschlösser bei Potsdam (10-18 Uhr)</p>           
+<p>28./29.09.2024 : 26 Sicherheitsenergieschlösser bei Dahn</p>
             <p>19./20.10.2024 : 26 Sicherheitsenergieschlösser bei Dahn</p>
+           
+
             <h4>JSJ-Gruppe </h4>
-            <p>24.02. / 23.03. / 27.04. / 25.05. / 29.06.</p>
+            <p>24.02. / 23.03. / 13.04. / 25.05. / 29.06.</p>
          <p></p>
                         </div>
         <div class="date">
